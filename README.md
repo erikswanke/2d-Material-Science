@@ -1,6 +1,6 @@
 # 2d-Material-Science
 
-
+TODO: update this readme
 Critical role descriptor design doc for generating the thousands of columns:
 
 '''for each element in elem site order:
